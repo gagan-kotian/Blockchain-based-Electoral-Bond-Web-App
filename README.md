@@ -66,7 +66,7 @@ This project utilizes blockchain technology and smart contracts, requiring the i
 
 For detailed instructions on using Metamask, refer to the [Metamask User Guide](https://metamask.zendesk.com/hc/en-us/categories/360001824191).
 
-## Run Locally
+## RunLocally
 
 Clone the project
 
@@ -108,7 +108,7 @@ Start the server
 ```
 
 
-## Environment Variables
+## EnvironmentVariables
 
 To run this project, you will need to add the following environment variables to your .env file
 
