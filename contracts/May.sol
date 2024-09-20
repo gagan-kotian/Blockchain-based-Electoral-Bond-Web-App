@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.9;
 
-contract CrowdFunding {  
+contract ElectoralBond {  
     struct Campaign {  
         address owner;
         string title;
