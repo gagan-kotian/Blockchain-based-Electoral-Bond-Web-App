@@ -6,8 +6,8 @@ A blockchain-based platform using Ethereum, Hardhat, and React.js to facilitate 
 Index
 - [Features](#Features)
 - [Installation](#installation)
-- [Run Locally](##RunLocally)
-- [Environment Variables](##Environmentalvariables)
+- [Run Locally](#RunLocally)
+- [Environment Variables](#EnvironmentVariables)
 - [Screenshots](#Screenshots)
 - [Demo](#Demo)
 
